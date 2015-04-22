@@ -1,0 +1,44 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 11px;
+}
+
+.button-wrap{
+	position: absolute;
+	left: 450px;
+	top: 25px;
+	cursor: pointer;
+}
+
+.chart-wrapper {
+	position: relative;
+}
+
+h3 {
+	margin-left: 20px;
+}
