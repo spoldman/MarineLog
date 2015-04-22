@@ -95,6 +95,7 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\datepicker.css" />
     <Content Include="Content\Site.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -133,7 +134,6 @@
     <Content Include="Scripts\_Libs\require.js" />
     <Content Include="Scripts\_Libs\spin.js" />
     <Content Include="Scripts\_Libs\text.js" />
-    <Content Include="Scripts\_Libs\underscore-disill.js" />
     <Content Include="Scripts\_Libs\underscore.js" />
     <Content Include="Web.config" />
   </ItemGroup>
